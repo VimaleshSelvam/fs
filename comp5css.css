@@ -1,0 +1,45 @@
+.dd{
+	background-color:darkgrey;
+	height:600px;
+}
+.row{
+	margin-top:20px;
+	height:480px;
+}
+.col{
+	width:80px;
+	background-color:white;
+}
+.color1{
+	background-color:red;
+	color:white;
+}
+.ff{
+	background-color:lightgrey;
+
+}
+.btn{
+	background-color:red;
+}
+.image{
+	transform:translateY(-10%);
+    text-align:center;
+    margin-bottom:0px;
+}
+.button {
+  background-color:blue;
+  border: none;
+  color: white;
+  padding:10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius:50%;
+  margin: 5px 5px;
+}
+.grid{
+	    display: grid;
+    column-gap: 11px;
+    grid-auto-flow: column;
+}

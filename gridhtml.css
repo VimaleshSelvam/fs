@@ -1,0 +1,27 @@
+.container{
+	margin-left:100px;
+}
+.col-sm{
+	background-color:pink;
+
+	height:125px;
+}
+.darkrose{
+	background-color:#fc034e;
+}
+.powderblue{
+	background-color:powderblue;
+}
+.col-8{
+	background-color:green;
+	height:125px;
+	border-right-style:solid;
+	border-width:10px;
+	border-color: white;
+}
+.col-4{
+	background-color:orange;
+	height:125px;
+	
+    
+}

@@ -1,0 +1,23 @@
+.dd{
+	background-color:darkgrey;
+	height:600px;
+}
+.row{
+	margin-top:20px;
+	height:480px;
+}
+.col{
+	width:80px;
+	background-color:white;
+}
+.color1{
+	background-color:red;
+	color:white;
+}
+.ff{
+	background-color:lightgrey;
+
+}
+.btn{
+	background-color:red;
+}
